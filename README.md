@@ -8,7 +8,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/felipelsouza.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/felipelsouza?tab=followers)
 
 <h2> 
-	🚧  DocMeet 🚀 Em construção...  🚧
+	🚧  🚀 Em construção...  🚧
 </h2>
 
 ### Features
