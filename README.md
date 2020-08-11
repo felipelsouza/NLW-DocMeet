@@ -7,7 +7,7 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/felipelsouza/NLW-DocMeet.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/felipelsouza/NLW-DocMeet/watchers/)
 [![GitHub followers](https://img.shields.io/github/followers/felipelsouza.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/felipelsouza?tab=followers)
 
-<h2 align="center"> 
+<h2> 
 	🚧  DocMeet 🚀 Em construção...  🚧
 </h2>
 
@@ -29,4 +29,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [TypeScript](https://www.typescriptlang.org/)
 
 </br>
-<h1>Projeto desenvolvido durante a Next Level Week #02 da Rocketseat</h1>
+<h2>Projeto desenvolvido durante a Next Level Week #02 da Rocketseat</h2>
